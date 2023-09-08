@@ -47,9 +47,13 @@
 <h1 style="marin:2rem;">Statistics</h1>
 
 ![Yawai's GitHub stats](https://github-readme-stats.vercel.app/api?username=yawai990&show_icons=true&theme=radical)
+
+<div style="display:flex;gap:15px;">
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yawai990&size_weight=0.5&count_weight=0.5&theme=radical) -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yawai990&layout=donut&langs_count=8&theme=gruvbox)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yawai990&layout=donut&theme=merko)] -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yawai990&theme=dark)](https://git.io/streak-stats)
+</div>
