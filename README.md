@@ -1,7 +1,8 @@
 <h1>
 <span style="
   font-size: 72px;
-  background: -webkit-linear-gradient(-45deg,#7CB9E8, #00308F);
+    background-image: linear-gradient(-45deg,#7CB9E8, #00308F);
+  background-image: -webkit-linear-gradient(-45deg,#7CB9E8, #00308F);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 ">Yawai Aung</span>
