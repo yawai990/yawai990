@@ -48,7 +48,7 @@
 
 ![Yawai's GitHub stats](https://github-readme-stats.vercel.app/api?username=yawai990&show_icons=true&theme=radical)
 
-<div style="display:flex;gap:15px;">
+<div style="display:flex;gap:10px;">
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yawai990&size_weight=0.5&count_weight=0.5&theme=radical) -->
 
